@@ -1,0 +1,12 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+# Salida de compilacion
+bin/
+obj/
+x64/
+*.ilk
+*.pdb
+*.log
+*.tlog
